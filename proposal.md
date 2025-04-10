@@ -22,8 +22,8 @@ El sistema permite gestionar servicios, empleados, horarios y reemplazos.
 Optimizamos recursos y presencia mediante programación inteligente y control de stock.*
 
 ### Modelo
-!![image](https://github.com/user-attachments/assets/b6cc0b47-d533-407f-85c7-b1629b4ecc0b)
-()
+![image](https://github.com/user-attachments/assets/b6cc0b47-d533-407f-85c7-b1629b4ecc0b)
+
 *https://miro.com/welcomeonboard/MlNyczJJc2Z5Nnp5Zk10VGNYZW0xa1lMTnUwaGR0M1RIUWlubThGdmVmcVAzR1g5K1ZKRzd0dnRrWHVZYmV3b0dUd05yNjFSOG5EcDE1NTdrcEUwZnJYR3NseXhLNzJ2aVQwVzFYaTdLTmx2Q1pIL2N2bXMvdk5ubTFoVmZvODN0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=4292619785*
 
 ## Alcance Funcional 
