@@ -1,8 +1,11 @@
-# Propuesta TP DSW
+# Propuesta TP DSW: EMPRESA DE LIMPIEZA
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+* 47901 - Sinopoli, Martina
+* 48038 - Tabini, Azul
+* 51207 - Gauna, Santiago
+* 48237- Gonzalez, Luciano
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
@@ -11,7 +14,12 @@
 
 ## Tema
 ### Descripción
-*2 a 6 líneas describiendo el negocio (menos es más)*
+*Ofrecemos servicios de limpieza integral, desinfecciones y alquiler de hidroelevadores.
+Atendemos bancos, oficinas, clínicas, fábricas y espacios al aire libre.
+Contamos con productos como lavandina, detergente, papel higiénico y equipos profesionales.
+Nuestro equipo incluye personal de limpieza y administrativos capacitados.
+El sistema permite gestionar servicios, empleados, horarios y reemplazos.
+Optimizamos recursos y presencia mediante programación inteligente y control de stock.*
 
 ### Modelo
 ![imagen del modelo]()
